@@ -1,0 +1,18 @@
+{
+    "name": "com.but.cinemachinemanager.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8771eff638c6314eb5f56a8228de114"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

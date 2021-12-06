@@ -1,0 +1,28 @@
+{
+  "name": "com.but.cinemachinemanager",
+  "version": "1.3.1",
+  "displayName": "CinemachineManager",
+  "description": "Custom unity tool that allows easy setting up and transitioning of multiple cinemachine virtual cameras.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.cinemachine": "2.6.5"
+  },
+  "keywords": [
+    "CineMachine",
+    "BUT"
+  ],
+  "author": {
+    "name": "Taha Dama",
+    "email": "tahad@but.ae",
+    "url": "https://but.digital/ae-en/"
+  },
+  "type": "tool",
+  "samples": [
+    {
+      "displayName": "Cinemachine Manager Sample",
+      "description": "Sample showing how to setup the Cinemachine Manager for transitioning between multiple virtual cameras.",
+      "path": "Samples~/CinemachineManagerSample"
+    }
+  ]
+}
