@@ -42,7 +42,7 @@ From there, add this URL:
 
     ![Main Camera Screenshot with CineBrain component](https://i.postimg.cc/3wrtXV8v/Main-Camera-Screenshot.png)
 
-2. Add Cinemachine Manager script or get prefab from package/CinemachineManager/Prefabs folder
-3. If you have added new script component to a gameobject then set the virtual camera prefab reference
+2. Add Cinemachine Manager script or get the prefab from package/CinemachineManager/Prefabs folder.
+3. If you have added new script component to a GameObject, then set the virtual camera prefab reference.
 
     ![Setting Virtual Camera Prefab Screenshot](https://i.postimg.cc/G3vS1k59/Setting-Virtual-Camera-Screenshot.png)
