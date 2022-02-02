@@ -1,6 +1,6 @@
 {
   "name": "com.but.cinemachinemanager",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "displayName": "CinemachineManager",
   "description": "Custom unity tool that allows easy setting up and transitioning of multiple cinemachine virtual cameras.",
   "unity": "2019.1",

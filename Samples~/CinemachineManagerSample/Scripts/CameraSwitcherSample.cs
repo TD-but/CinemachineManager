@@ -6,7 +6,6 @@ namespace BUT.Utils.CineCameraManager
     {
         public void EnableCamera(int num)
         {
-            Debug.Log("Switching to camera " + num);
             CineCameraManager.Instance.SwitchTo(num);
         }
     }

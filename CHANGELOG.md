@@ -2,11 +2,15 @@
 
 ## Current Version
 
+### [1.3.2] - 2022-02-02
+
+- `Fix` — Fixed issue where deleting a virtual camera dint initialize the dictionary properly
+
+## Previous Versions
+
 ### [1.3.1] - 2021-11-23
 
 - `Changed` — Switched project to a Unity package that can be added from PackageManager
-
-## Previous Versions
 
 ### [1.3.0] - 2021-11-20
 

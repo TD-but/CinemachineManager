@@ -98,6 +98,10 @@ namespace BUT.Utils.CineCameraManager
             _cameras = new Dictionary<int, CinemachineVirtualCamera>();
             GetChildRecursive(gameObject);
             SwitchTo(defaultIndex);
+
+#if UNITY_EDITOR
+            EditorUtility.SetDirty(this);      
+#endif
         }
 
         public void SwitchTo(int id)
